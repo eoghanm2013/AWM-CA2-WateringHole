@@ -1,0 +1,5042 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-12-01T19:54:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27823980",
+        "name": "Salmons Offlicence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.4064883,
+              53.3905339
+            ],
+            [
+              -6.4059916,
+              53.3904544
+            ],
+            [
+              -6.4059078,
+              53.3906396
+            ],
+            [
+              -6.4059998,
+              53.3906504
+            ],
+            [
+              -6.4060404,
+              53.3906915
+            ],
+            [
+              -6.4063921,
+              53.3907477
+            ],
+            [
+              -6.4064883,
+              53.3905339
+            ]
+          ]
+        ]
+      },
+      "id": "way/27823980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/51767141",
+        "addr:city": "Dublin",
+        "addr:housenumber": "6",
+        "addr:street": "Finglas Road",
+        "building": "yes",
+        "name": "Sweeney's Off Licence",
+        "operator": "O'Brien's",
+        "shop": "alcohol",
+        "website": "http://www.sweeneyswines.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2719985,
+              53.3667743
+            ],
+            [
+              -6.2720089,
+              53.3667274
+            ],
+            [
+              -6.2718092,
+              53.366708
+            ],
+            [
+              -6.2717632,
+              53.3669124
+            ],
+            [
+              -6.2719337,
+              53.36693
+            ],
+            [
+              -6.271998,
+              53.3669291
+            ],
+            [
+              -6.271996,
+              53.3669159
+            ],
+            [
+              -6.2720608,
+              53.3669185
+            ],
+            [
+              -6.272097,
+              53.3669039
+            ],
+            [
+              -6.2719985,
+              53.3667743
+            ]
+          ]
+        ]
+      },
+      "id": "way/51767141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/58647486",
+        "addr:street": "Monkstown Crescent",
+        "building": "house",
+        "name": "Eno Wine",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.1502536,
+              53.2939317
+            ],
+            [
+              -6.1502536,
+              53.2939938
+            ],
+            [
+              -6.1503893,
+              53.2939938
+            ],
+            [
+              -6.1503893,
+              53.2939317
+            ],
+            [
+              -6.1502536,
+              53.2939317
+            ]
+          ]
+        ]
+      },
+      "id": "way/58647486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/74615122",
+        "addr:city": "Carlow",
+        "addr:country": "IE",
+        "addr:housenumber": "5",
+        "addr:street": "Castle Street",
+        "building": "yes",
+        "name": "Castle Off License",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.9326733,
+              52.836618
+            ],
+            [
+              -6.9325706,
+              52.8366075
+            ],
+            [
+              -6.9325602,
+              52.8366447
+            ],
+            [
+              -6.932663,
+              52.8366552
+            ],
+            [
+              -6.9326733,
+              52.836618
+            ]
+          ]
+        ]
+      },
+      "id": "way/74615122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85389419",
+        "addr:housenumber": "31",
+        "addr:street": "Sandyford Road",
+        "building": "yes",
+        "name": "Deveney's",
+        "shop": "alcohol",
+        "website": "http://deveneysbeer.blogspot.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2435174,
+              53.2889457
+            ],
+            [
+              -6.2433883,
+              53.2889857
+            ],
+            [
+              -6.243399,
+              53.2889981
+            ],
+            [
+              -6.2434453,
+              53.2890514
+            ],
+            [
+              -6.2435744,
+              53.2890114
+            ],
+            [
+              -6.2435174,
+              53.2889457
+            ]
+          ]
+        ]
+      },
+      "id": "way/85389419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105915571",
+        "addr:city": "Dublin",
+        "addr:street": "Terenure Road East",
+        "building": "retail",
+        "drive_through": "no",
+        "name": "The Wine Corner",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2749305,
+              53.3120945
+            ],
+            [
+              -6.2748656,
+              53.3119703
+            ],
+            [
+              -6.2747518,
+              53.3119915
+            ],
+            [
+              -6.2748167,
+              53.3121158
+            ],
+            [
+              -6.2749305,
+              53.3120945
+            ]
+          ]
+        ]
+      },
+      "id": "way/105915571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/127529575",
+        "addr:street": "Johnstown Road",
+        "building": "yes",
+        "name": "The Vintage",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.1462401,
+              53.2684842
+            ],
+            [
+              -6.1461395,
+              53.2684112
+            ],
+            [
+              -6.1460595,
+              53.2684507
+            ],
+            [
+              -6.1461601,
+              53.2685237
+            ],
+            [
+              -6.1462401,
+              53.2684842
+            ]
+          ]
+        ]
+      },
+      "id": "way/127529575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/165237817",
+        "building": "yes",
+        "name": "Kelly's",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.4446667,
+              52.5643758
+            ],
+            [
+              -6.4448068,
+              52.5642931
+            ],
+            [
+              -6.4447647,
+              52.5642668
+            ],
+            [
+              -6.4446951,
+              52.5642232
+            ],
+            [
+              -6.444561,
+              52.5643023
+            ],
+            [
+              -6.4446667,
+              52.5643758
+            ]
+          ]
+        ]
+      },
+      "id": "way/165237817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/176050933",
+        "addr:street": "Church Hill",
+        "building": "yes",
+        "name": "The Parting Glass",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.1696156,
+              53.1920886
+            ],
+            [
+              -6.1695261,
+              53.1921214
+            ],
+            [
+              -6.1695836,
+              53.1921777
+            ],
+            [
+              -6.1696732,
+              53.1921448
+            ],
+            [
+              -6.1696156,
+              53.1920886
+            ]
+          ]
+        ]
+      },
+      "id": "way/176050933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233506997",
+        "addr:housenumber": "6-8",
+        "addr:street": "Vernon Avenue",
+        "brand": "O'Brien's Wine",
+        "building": "commercial",
+        "email": "clontarf@obrienswine.ie",
+        "name": "O'Brien's Wine",
+        "operator": "O'Brien's Wine",
+        "phone": "+353-1-8186071",
+        "shop": "alcohol",
+        "website": "https://www.obrienswine.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.1962482,
+              53.35985
+            ],
+            [
+              -6.1960645,
+              53.3598269
+            ],
+            [
+              -6.1960215,
+              53.3599489
+            ],
+            [
+              -6.1962051,
+              53.359972
+            ],
+            [
+              -6.1962482,
+              53.35985
+            ]
+          ]
+        ]
+      },
+      "id": "way/233506997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237916663",
+        "name": "O'Brien's",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su 12:30-22:00",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.1050623,
+              53.2778678
+            ],
+            [
+              -6.1051351,
+              53.2777818
+            ],
+            [
+              -6.1050162,
+              53.2777458
+            ],
+            [
+              -6.1049919,
+              53.2777745
+            ],
+            [
+              -6.1050162,
+              53.2777818
+            ],
+            [
+              -6.1049676,
+              53.2778392
+            ],
+            [
+              -6.1050623,
+              53.2778678
+            ]
+          ]
+        ]
+      },
+      "id": "way/237916663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/251523512",
+        "addr:city": "Dublin",
+        "addr:housenumber": "13",
+        "addr:street": "Clarendon Street",
+        "building": "yes",
+        "name": "L. Mulligan Whiskey Shop",
+        "opening_hours": "Mo-Sa 11:00-19:00; Su 12:30-18:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+353 1 567 2256",
+        "shop": "alcohol",
+        "website": "https://lmulliganwhiskeyshop.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2614986,
+              53.3419422
+            ],
+            [
+              -6.2614379,
+              53.3420153
+            ],
+            [
+              -6.261559,
+              53.3420442
+            ],
+            [
+              -6.2616136,
+              53.3419691
+            ],
+            [
+              -6.2614986,
+              53.3419422
+            ]
+          ]
+        ]
+      },
+      "id": "way/251523512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252956223",
+        "building": "yes",
+        "name": "Gordon's Cosy Corner",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.8660618,
+              53.9214501
+            ],
+            [
+              -7.866118,
+              53.9215337
+            ],
+            [
+              -7.8661935,
+              53.9215151
+            ],
+            [
+              -7.866138,
+              53.9214355
+            ],
+            [
+              -7.8660618,
+              53.9214501
+            ]
+          ]
+        ]
+      },
+      "id": "way/252956223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/268843106",
+        "addr:city": "Dublin",
+        "addr:housenumber": "28",
+        "addr:street": "Dawson Street",
+        "building": "yes",
+        "name": "Wines on the Green",
+        "shop": "alcohol",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.258863,
+              53.3399809
+            ],
+            [
+              -6.2588959,
+              53.3399286
+            ],
+            [
+              -6.2587568,
+              53.3398982
+            ],
+            [
+              -6.258739,
+              53.3399474
+            ],
+            [
+              -6.258863,
+              53.3399809
+            ]
+          ]
+        ]
+      },
+      "id": "way/268843106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/268843107",
+        "addr:city": "Dublin",
+        "addr:housenumber": "27",
+        "addr:street": "Dawson Street",
+        "building": "yes",
+        "name": "Celtic Whiskey Shop",
+        "shop": "alcohol",
+        "website": "https://www.celticwhiskeyshop.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2587568,
+              53.3398982
+            ],
+            [
+              -6.2588959,
+              53.3399286
+            ],
+            [
+              -6.2589254,
+              53.3398781
+            ],
+            [
+              -6.258775,
+              53.3398481
+            ],
+            [
+              -6.2587568,
+              53.3398982
+            ]
+          ]
+        ]
+      },
+      "id": "way/268843107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293019430",
+        "addr:housenumber": "26",
+        "addr:street": "Fenian Street",
+        "amenity": "cafe",
+        "building": "commercial",
+        "email": "info@probuswines.com",
+        "name": "Probus",
+        "note": "This is also a wine bar / off licence",
+        "phone": "+353-1-6629649",
+        "shop": "alcohol",
+        "website": "https://probuswines.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2482153,
+              53.341493
+            ],
+            [
+              -6.2484291,
+              53.3415115
+            ],
+            [
+              -6.2484405,
+              53.341454
+            ],
+            [
+              -6.2482403,
+              53.3413855
+            ],
+            [
+              -6.2482264,
+              53.3414425
+            ],
+            [
+              -6.2482153,
+              53.341493
+            ]
+          ]
+        ]
+      },
+      "id": "way/293019430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/314051081",
+        "addr:street": "Marino Mart",
+        "building": "retail",
+        "name": "Martins Off License",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2323243,
+              53.3642874
+            ],
+            [
+              -6.2322448,
+              53.3641684
+            ],
+            [
+              -6.2321381,
+              53.3641937
+            ],
+            [
+              -6.2322432,
+              53.3643511
+            ],
+            [
+              -6.2322773,
+              53.3644022
+            ],
+            [
+              -6.2323892,
+              53.3643846
+            ],
+            [
+              -6.2323243,
+              53.3642874
+            ]
+          ]
+        ]
+      },
+      "id": "way/314051081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316519233",
+        "building": "commercial",
+        "name": "Oddbins",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2636882,
+              53.3006606
+            ],
+            [
+              -6.2637788,
+              53.300597
+            ],
+            [
+              -6.2637044,
+              53.3005592
+            ],
+            [
+              -6.2636138,
+              53.3006228
+            ],
+            [
+              -6.2636882,
+              53.3006606
+            ]
+          ]
+        ]
+      },
+      "id": "way/316519233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318740893",
+        "building": "house",
+        "name": "The Nore Tavern",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.1842054,
+              52.5914981
+            ],
+            [
+              -7.1841984,
+              52.591438
+            ],
+            [
+              -7.1840958,
+              52.5914486
+            ],
+            [
+              -7.1840971,
+              52.5914596
+            ],
+            [
+              -7.1841065,
+              52.5915025
+            ],
+            [
+              -7.1842054,
+              52.5914981
+            ]
+          ]
+        ]
+      },
+      "id": "way/318740893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362215852",
+        "building": "yes",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6255721,
+              52.6592199
+            ],
+            [
+              -8.6254909,
+              52.6592
+            ],
+            [
+              -8.6254795,
+              52.6592024
+            ],
+            [
+              -8.6254426,
+              52.659265
+            ],
+            [
+              -8.6255265,
+              52.6592842
+            ],
+            [
+              -8.6255721,
+              52.6592199
+            ]
+          ]
+        ]
+      },
+      "id": "way/362215852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/491824105",
+        "building": "retail",
+        "name": "O'Briens Wine Off Licence",
+        "shop": "alcohol",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3032579,
+              53.2983731
+            ],
+            [
+              -6.3032391,
+              53.2982968
+            ],
+            [
+              -6.3032101,
+              53.2981813
+            ],
+            [
+              -6.3030908,
+              53.298237
+            ],
+            [
+              -6.3031263,
+              53.2983957
+            ],
+            [
+              -6.3032579,
+              53.2983731
+            ]
+          ]
+        ]
+      },
+      "id": "way/491824105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/660168834",
+        "building": "commercial",
+        "name": "McHughs",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.1476438,
+              53.386825
+            ],
+            [
+              -6.1477156,
+              53.3867582
+            ],
+            [
+              -6.1476626,
+              53.386738
+            ],
+            [
+              -6.1477021,
+              53.3867012
+            ],
+            [
+              -6.1476052,
+              53.3866642
+            ],
+            [
+              -6.1475658,
+              53.386701
+            ],
+            [
+              -6.147494,
+              53.3867679
+            ],
+            [
+              -6.1476438,
+              53.386825
+            ]
+          ]
+        ]
+      },
+      "id": "way/660168834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684240816",
+        "building": "yes",
+        "name": "O’Briens Wine",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3903352,
+              53.3893282
+            ],
+            [
+              -6.3901158,
+              53.3891346
+            ],
+            [
+              -6.3898268,
+              53.389251
+            ],
+            [
+              -6.3900462,
+              53.3894447
+            ],
+            [
+              -6.3903352,
+              53.3893282
+            ]
+          ]
+        ]
+      },
+      "id": "way/684240816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/696901399",
+        "addr:city": "Dublin",
+        "addr:housenumber": "28",
+        "addr:street": "North Earl Street",
+        "brand": "Dunnes Stores",
+        "brand:wikidata": "Q1266203",
+        "brand:wikipedia": "en:Dunnes Stores",
+        "building": "yes",
+        "drive_through": "no",
+        "name": "Dunnes Stores",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2596902,
+              53.3499797
+            ],
+            [
+              -6.2595655,
+              53.3499985
+            ],
+            [
+              -6.259609,
+              53.3501013
+            ],
+            [
+              -6.2596116,
+              53.3501076
+            ],
+            [
+              -6.2597364,
+              53.3500888
+            ],
+            [
+              -6.2596902,
+              53.3499797
+            ]
+          ]
+        ]
+      },
+      "id": "way/696901399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/698017670",
+        "addr:housename": "The Mall",
+        "addr:street": "Clonsilla Road",
+        "drive_through": "no",
+        "name": "Molloy's Liquor Stores",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su 12:30-22:00",
+        "phone": "+353-1-8227144",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3998129,
+              53.3823079
+            ],
+            [
+              -6.3997972,
+              53.3823713
+            ],
+            [
+              -6.3997648,
+              53.3825102
+            ],
+            [
+              -6.3998401,
+              53.3825166
+            ],
+            [
+              -6.3998346,
+              53.3825378
+            ],
+            [
+              -6.3998291,
+              53.3825607
+            ],
+            [
+              -6.3999923,
+              53.3825751
+            ],
+            [
+              -6.4000029,
+              53.3825321
+            ],
+            [
+              -6.4000671,
+              53.3825377
+            ],
+            [
+              -6.4001175,
+              53.3823348
+            ],
+            [
+              -6.3998129,
+              53.3823079
+            ]
+          ]
+        ]
+      },
+      "id": "way/698017670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/762058065",
+        "building": "yes",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4738582,
+              51.9101358
+            ],
+            [
+              -8.4738478,
+              51.9100917
+            ],
+            [
+              -8.4739179,
+              51.9100852
+            ],
+            [
+              -8.4739179,
+              51.9100567
+            ],
+            [
+              -8.4737938,
+              51.9100682
+            ],
+            [
+              -8.4736793,
+              51.9100788
+            ],
+            [
+              -8.4737151,
+              51.9101515
+            ],
+            [
+              -8.4738582,
+              51.9101358
+            ]
+          ]
+        ]
+      },
+      "id": "way/762058065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/771404587",
+        "building": "yes",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4745767,
+              51.9076608
+            ],
+            [
+              -8.4744147,
+              51.9076533
+            ],
+            [
+              -8.4744044,
+              51.9077376
+            ],
+            [
+              -8.474427,
+              51.9077585
+            ],
+            [
+              -8.4745398,
+              51.9077637
+            ],
+            [
+              -8.4745383,
+              51.907759
+            ],
+            [
+              -8.474546,
+              51.9077132
+            ],
+            [
+              -8.4745484,
+              51.9076935
+            ],
+            [
+              -8.4745725,
+              51.9076947
+            ],
+            [
+              -8.4745767,
+              51.9076608
+            ]
+          ]
+        ]
+      },
+      "id": "way/771404587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/788026143",
+        "building": "yes",
+        "name": "O'Donovan's",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su 12:30-22:00",
+        "phone": "+353 21 450 54 44",
+        "shop": "alcohol",
+        "website": "http://www.odonovansofflicence.com/;https://www.facebook.com/odonovanssummerhill"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4637448,
+              51.9021982
+            ],
+            [
+              -8.4637094,
+              51.9021246
+            ],
+            [
+              -8.4635805,
+              51.9021733
+            ],
+            [
+              -8.4636449,
+              51.9022807
+            ],
+            [
+              -8.4636997,
+              51.9022678
+            ],
+            [
+              -8.4636691,
+              51.9022191
+            ],
+            [
+              -8.4637448,
+              51.9021982
+            ]
+          ]
+        ]
+      },
+      "id": "way/788026143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/829210277",
+        "building": "yes",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.1604282,
+              52.4736384
+            ],
+            [
+              -8.160407,
+              52.4736397
+            ],
+            [
+              -8.1602739,
+              52.4736484
+            ],
+            [
+              -8.1603106,
+              52.4737762
+            ],
+            [
+              -8.1604381,
+              52.4737712
+            ],
+            [
+              -8.1604182,
+              52.4737118
+            ],
+            [
+              -8.1604282,
+              52.4736384
+            ]
+          ]
+        ]
+      },
+      "id": "way/829210277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/322496041",
+        "name": "Number 21",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4702792,
+          51.9017295
+        ]
+      },
+      "id": "node/322496041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330960294",
+        "addr:housenumber": "52",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9816178,
+          52.9927168
+        ]
+      },
+      "id": "node/330960294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/348490619",
+        "name": "O'Donovan's Off-License",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4733074,
+          51.9114509
+        ]
+      },
+      "id": "node/348490619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/348754401",
+        "name": "Fine Wines",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su,PH 12:30-22:00",
+        "opening_hours:covid19": "open",
+        "shop": "alcohol",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4728243,
+          51.9163073
+        ]
+      },
+      "id": "node/348754401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/352671762",
+        "name": "Roost Off License",
+        "name:ga": "Eischeadúnas an Roost",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5922905,
+          53.3809287
+        ]
+      },
+      "id": "node/352671762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/352673566",
+        "amenity": "cafe",
+        "name": "The Amber Tree",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5931134,
+          53.3813571
+        ]
+      },
+      "id": "node/352673566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410478725",
+        "addr:street": "Borrisokane Road",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1967745,
+          52.8720436
+        ]
+      },
+      "id": "node/410478725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/467744892",
+        "name": "Carolan's",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2591408,
+          53.3592388
+        ]
+      },
+      "id": "node/467744892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/470326939",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "144",
+        "addr:street": "Parnell Street",
+        "name": "Bevvie's",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2594155,
+          53.3536376
+        ]
+      },
+      "id": "node/470326939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/472767309",
+        "addr:city": "Dublin",
+        "addr:housenumber": "82",
+        "addr:street": "Ballybough Road",
+        "drive_through": "no",
+        "name": "The Vine Tree",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2459517,
+          53.358953
+        ]
+      },
+      "id": "node/472767309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/482107333",
+        "name": "McHughs",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1476371,
+          53.3867316
+        ]
+      },
+      "id": "node/482107333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/488567282",
+        "name": "Roger's & Son",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5316797,
+          52.9112149
+        ]
+      },
+      "id": "node/488567282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/535625851",
+        "name": "Bunratty Winery",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8118805,
+          52.7019717
+        ]
+      },
+      "id": "node/535625851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/564118831",
+        "name": "Redmonds",
+        "opening_hours:covid19": "Mo-Sa 14:00-20:00",
+        "shop": "alcohol",
+        "website": "http://www.redmonds.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2554672,
+          53.3255762
+        ]
+      },
+      "id": "node/564118831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/564926473",
+        "addr:city": "Dublin 6",
+        "addr:housenumber": "149",
+        "addr:street": "Rathmines Road Upper",
+        "name": "O'Brien's",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2654202,
+          53.3162071
+        ]
+      },
+      "id": "node/564926473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/638364570",
+        "delivery": "yes",
+        "name": "Coolers Off Licence",
+        "opening_hours": "Mo-Su 10:30-22:00",
+        "opening_hours:delivery": "Mo-Su 18:00-22:00",
+        "shop": "alcohol",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2320859,
+          53.4710629
+        ]
+      },
+      "id": "node/638364570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/639845339",
+        "addr:city": "Dublin",
+        "addr:housenumber": "99",
+        "addr:street": "Phibsborough Road",
+        "drive_through": "no",
+        "name": "Fagan's",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su, PH 12:30-22:00",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2725633,
+          53.3632688
+        ]
+      },
+      "id": "node/639845339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660698794",
+        "addr:street": "Donnybrook Road",
+        "drive_through": "no",
+        "name": "O'Brien's",
+        "shop": "alcohol",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.23603,
+          53.3221087
+        ]
+      },
+      "id": "node/660698794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/666926060",
+        "name": "Next Door",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3128598,
+          52.2910255
+        ]
+      },
+      "id": "node/666926060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/726647101",
+        "addr:housenumber": "101",
+        "addr:street": "Monkstown Road",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1544144,
+          53.2935975
+        ]
+      },
+      "id": "node/726647101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738241020",
+        "addr:housenumber": "184",
+        "addr:street": "South Circular Road",
+        "name": "Next Door Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.27947,
+          53.331557
+        ]
+      },
+      "id": "node/738241020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/800039631",
+        "name": "Nugent's Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7426796,
+          53.1310861
+        ]
+      },
+      "id": "node/800039631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/943337716",
+        "addr:housenumber": "3",
+        "addr:street": "Terenure Road North",
+        "cuisine": "fish_and_chips",
+        "name": "Green Man Wines",
+        "old_name": "Taste of Life",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2822294,
+          53.3145123
+        ]
+      },
+      "id": "node/943337716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/974582922",
+        "name": "Cellar",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2602822,
+          53.2965069
+        ]
+      },
+      "id": "node/974582922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/976139864",
+        "name": "Off Licence",
+        "note": "The sign above the door says 'Off Licence' that's the berst name I could figure out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2803771,
+          53.3460304
+        ]
+      },
+      "id": "node/976139864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1009312663",
+        "addr:city": "Newbridge",
+        "addr:country": "IE",
+        "addr:county": "Kildare",
+        "addr:housenumber": "Unit 1",
+        "addr:street": "The Cortyard Shopping Center",
+        "email": "newbridge@obrienswines.ie",
+        "name": "O'Briens Wines",
+        "shop": "alcohol",
+        "website": "https://www.obrienswine.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8000106,
+          53.1781525
+        ]
+      },
+      "id": "node/1009312663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1084433269",
+        "addr:city": "Newbridge",
+        "addr:country": "IE",
+        "addr:county": "Kildare",
+        "addr:street": "George's Street",
+        "name": "Next Door",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7979501,
+          53.181596
+        ]
+      },
+      "id": "node/1084433269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1165023219",
+        "addr:city": "Limerick",
+        "addr:street": "Saint Nessan's Road",
+        "name": "Fine Wines",
+        "shop": "alcohol",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6540189,
+          52.6365423
+        ]
+      },
+      "id": "node/1165023219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1199265493",
+        "addr:city": "Newbridge",
+        "addr:country": "IE",
+        "addr:county": "Kildare",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "name": "O'Rourke's",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7965704,
+          53.1812679
+        ]
+      },
+      "id": "node/1199265493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1245526439",
+        "name": "The Wine Buff",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1993182,
+          52.8616141
+        ]
+      },
+      "id": "node/1245526439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1251961004",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7983372,
+          52.9530448
+        ]
+      },
+      "id": "node/1251961004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1290352793",
+        "addr:city": "Cork",
+        "addr:street": "Douglas Road",
+        "name": "Galvins Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4426567,
+          51.8809481
+        ]
+      },
+      "id": "node/1290352793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295102983",
+        "addr:city": "Letterkenny",
+        "addr:housenumber": "8",
+        "addr:street": "Pearse Road",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7363481,
+          54.9467032
+        ]
+      },
+      "id": "node/1295102983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1316633899",
+        "name": "O'Briens",
+        "shop": "alcohol",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1824459,
+          53.2506214
+        ]
+      },
+      "id": "node/1316633899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1331375875",
+        "email": "info@hoteldoolin.ie",
+        "name": "Stone Wall Cafe, Pizzeria & Off Licence",
+        "phone": "+353 65 707 4111",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3767111,
+          53.0162784
+        ]
+      },
+      "id": "node/1331375875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1345228648",
+        "name": "O'Briens",
+        "shop": "alcohol",
+        "website": "https://www.obrienswine.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3899777,
+          53.3938154
+        ]
+      },
+      "id": "node/1345228648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1374467378",
+        "name": "Molloy's Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.275259,
+          53.341782
+        ]
+      },
+      "id": "node/1374467378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1424006114",
+        "addr:street": "Woodstown Shopping Centre",
+        "name": "Dwans Off-Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3302793,
+          53.2757121
+        ]
+      },
+      "id": "node/1424006114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1426100403",
+        "name": "Next Door Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2883706,
+          53.3364806
+        ]
+      },
+      "id": "node/1426100403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1445455396",
+        "name": "Fine Wines",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su 12:30-22:00",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.05707,
+          53.2696401
+        ]
+      },
+      "id": "node/1445455396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1447016955",
+        "name": "Fine Wines",
+        "note": "off license",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5558726,
+          52.6679879
+        ]
+      },
+      "id": "node/1447016955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1447037333",
+        "addr:street": "North Road",
+        "fixme": "Check name and details.",
+        "name": "Nine-one-one",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3633433,
+          53.7236284
+        ]
+      },
+      "id": "node/1447037333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1447038861",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3463099,
+          53.7163103
+        ]
+      },
+      "id": "node/1447038861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473508564",
+        "name": "Next Door",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2780884,
+          53.3405707
+        ]
+      },
+      "id": "node/1473508564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496488533",
+        "addr:city": "Blarney",
+        "alt_name": "Blarney Off Licence",
+        "branch": "Blarney",
+        "brand": "Number 21",
+        "brand:wikidata": "Q97559853",
+        "drive_through": "no",
+        "name": "Number 21",
+        "opening_hours:covid19": "open",
+        "operator": "Number 21",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5615052,
+          51.9334849
+        ]
+      },
+      "id": "node/1496488533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496778368",
+        "name": "Beaumont Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2330601,
+          53.3857233
+        ]
+      },
+      "id": "node/1496778368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1499228161",
+        "level": "0",
+        "name": "Number 21",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6366549,
+          52.6487337
+        ]
+      },
+      "id": "node/1499228161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500501187",
+        "name": "Cono Sur",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3177489,
+          53.3162404
+        ]
+      },
+      "id": "node/1500501187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1509385145",
+        "name": "The Strand",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2417351,
+          53.3625861
+        ]
+      },
+      "id": "node/1509385145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1558695441",
+        "name": "The Cellar off License",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4879031,
+          53.371456
+        ]
+      },
+      "id": "node/1558695441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1609201982",
+        "name": "Thomas Dolan",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6143116,
+          53.3438329
+        ]
+      },
+      "id": "node/1609201982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1672788161",
+        "name": "Lilac Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2400266,
+          53.3665746
+        ]
+      },
+      "id": "node/1672788161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676070460",
+        "addr:housename": "O'Brien's",
+        "name": "O'Briens",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2992872,
+          53.3612024
+        ]
+      },
+      "id": "node/1676070460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676709599",
+        "name": "O'Briens",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6860308,
+          53.6530694
+        ]
+      },
+      "id": "node/1676709599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712133083",
+        "addr:city": "Limerick",
+        "addr:street": "Roches Street",
+        "name": "FIne Wines",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su 12:30-22:00",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6267853,
+          52.6617102
+        ]
+      },
+      "id": "node/1712133083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712671460",
+        "name": "Fine Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5778786,
+          52.6636929
+        ]
+      },
+      "id": "node/1712671460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1732295107",
+        "addr:street": "Dublin Road",
+        "brand": "Carry Out",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0034858,
+          53.276038
+        ]
+      },
+      "id": "node/1732295107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1780441163",
+        "name": "Galvins Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4841552,
+          51.8920125
+        ]
+      },
+      "id": "node/1780441163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1801894687",
+        "name": "Grove CarryOut",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9625182,
+          53.4244273
+        ]
+      },
+      "id": "node/1801894687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1812472316",
+        "name": "O'Donovan's Off License",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3918718,
+          51.8185604
+        ]
+      },
+      "id": "node/1812472316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1812472366",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.392092,
+          51.8136897
+        ]
+      },
+      "id": "node/1812472366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822753491",
+        "name": "O'Brians Spirit",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4526852,
+          53.348545
+        ]
+      },
+      "id": "node/1822753491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1846051663",
+        "addr:city": "Cork",
+        "addr:street": "Pearse Square",
+        "name": "O'Sullivans (Closed)",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4827435,
+          51.883346
+        ]
+      },
+      "id": "node/1846051663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1858306079",
+        "addr:housenumber": "14",
+        "addr:street": "Errigal Road",
+        "name": "Better Value",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3213781,
+          53.3256915
+        ]
+      },
+      "id": "node/1858306079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1866486074",
+        "addr:city": "Bray",
+        "addr:housename": "O'briens",
+        "addr:housenumber": "19",
+        "addr:street": "Quinnsborough Road",
+        "contact:email": "bray@obrienswine.ie",
+        "drive_through": "no",
+        "name": "O'Brien's Wine",
+        "opening_hours": "Mo-Su 10:30-22:00",
+        "shop": "alcohol",
+        "toilets:wheelchair": "no",
+        "website": "https://www.obrienswine.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1073071,
+          53.2046755
+        ]
+      },
+      "id": "node/1866486074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898402591",
+        "shop": "alcohol",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2942911,
+          51.8024632
+        ]
+      },
+      "id": "node/1898402591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1907617249",
+        "name": "The Cellar",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1029676,
+          53.942318
+        ]
+      },
+      "id": "node/1907617249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1936134508",
+        "addr:city": "Tallaght",
+        "addr:postal_district": "D24",
+        "addr:street": "Killinarden Way",
+        "name": "Mace Off-Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.383462,
+          53.2807866
+        ]
+      },
+      "id": "node/1936134508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1946358365",
+        "name": "McCambridges Wine Store",
+        "shop": "alcohol",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0166008,
+          53.2906435
+        ]
+      },
+      "id": "node/1946358365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1947471515",
+        "name": "Jus de Vine",
+        "shop": "alcohol",
+        "website": "https://www.jusdevine.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1372896,
+          53.4208752
+        ]
+      },
+      "id": "node/1947471515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1959260538",
+        "name": "Fine Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6190829,
+          52.6479596
+        ]
+      },
+      "id": "node/1959260538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1960847388",
+        "addr:housename": "Simply Wines Warehouse",
+        "addr:housenumber": "Unit 2 Ballyogan Business Park",
+        "addr:street": "Ballyogan Road",
+        "name": "Simply Wines",
+        "shop": "alcohol",
+        "website": "http://www.simplywines.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.193594,
+          53.2567657
+        ]
+      },
+      "id": "node/1960847388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1970263592",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5465792,
+          53.3512315
+        ]
+      },
+      "id": "node/1970263592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2000036396",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.791207,
+          53.5601832
+        ]
+      },
+      "id": "node/2000036396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2075681531",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4485589,
+          51.9163881
+        ]
+      },
+      "id": "node/2075681531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2075685067",
+        "addr:housename": "Tesco",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "brand:wikipedia": "en:Tesco",
+        "name": "Tesco",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5079862,
+          51.8795688
+        ]
+      },
+      "id": "node/2075685067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102030276",
+        "name": "O'Briens Wine",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.047649,
+          53.2809591
+        ]
+      },
+      "id": "node/2102030276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2106301459",
+        "name": "Fine Wines",
+        "phone": "+353 91 582 946",
+        "shop": "alcohol",
+        "website": "https://www.myfinewines.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0748607,
+          53.2754753
+        ]
+      },
+      "id": "node/2106301459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2133580308",
+        "name": "The Wine Buff",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4746369,
+          54.271361
+        ]
+      },
+      "id": "node/2133580308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2134708912",
+        "addr:housenumber": "49",
+        "addr:street": "Sandycove Road",
+        "name": "The Wine Buff",
+        "shop": "alcohol",
+        "website": "https://www.thewinebuff.com/shops/sandycove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1185285,
+          53.2861624
+        ]
+      },
+      "id": "node/2134708912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2249469787",
+        "addr:housename": "Murray's SuperValu",
+        "addr:street": "Old Youghal Road",
+        "brand": "SuperValu",
+        "brand:wikidata": "Q7642081",
+        "brand:wikipedia": "en:SuperValu (Ireland)",
+        "name": "Murray's SuperValu",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.439925,
+          51.912237
+        ]
+      },
+      "id": "node/2249469787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2320164470",
+        "name": "Fine Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6917127,
+          52.3547731
+        ]
+      },
+      "id": "node/2320164470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2334946080",
+        "name": "Owen Roe's Next Door Off Licence",
+        "opening_hours": "11:00-22:00",
+        "operator": "Owen Roe's",
+        "phone": "00 353 71 98 51481",
+        "shop": "alcohol",
+        "website": "https://www.owenroes.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1891354,
+          54.4997155
+        ]
+      },
+      "id": "node/2334946080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2342482543",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3967655,
+          52.8447622
+        ]
+      },
+      "id": "node/2342482543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2347111934",
+        "name": "Frank Dorrian's Wine and Spirit Store",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1926739,
+          54.5035552
+        ]
+      },
+      "id": "node/2347111934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2349397859",
+        "name": "Dicey Reilley's",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.190128,
+          54.5029333
+        ]
+      },
+      "id": "node/2349397859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2367554661",
+        "name": "O'Briens",
+        "shop": "alcohol",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2154544,
+          53.2779795
+        ]
+      },
+      "id": "node/2367554661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2372313289",
+        "name": "Molloys",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1975278,
+          53.2583033
+        ]
+      },
+      "id": "node/2372313289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2396256684",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2559896,
+          52.6496652
+        ]
+      },
+      "id": "node/2396256684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2415851614",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3503871,
+          52.4630428
+        ]
+      },
+      "id": "node/2415851614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2435856509",
+        "addr:housenumber": "23",
+        "addr:street": "Rock Hill",
+        "contact:facebook": "https://www.facebook.com/blackrock.cellar",
+        "contact:twitter": "https://twitter.com/joelfinebottles",
+        "email": "info.blackrockcellar@gmail.com",
+        "name": "Blackrock Cellar",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su 12:30-22:00",
+        "phone": "+353-1-278-3844",
+        "shop": "alcohol",
+        "website": "https://www.blackrockcellar.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.179174,
+          53.3022949
+        ]
+      },
+      "id": "node/2435856509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468205724",
+        "name": "Foleys",
+        "shop": "alcohol",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4718343,
+          54.2705002
+        ]
+      },
+      "id": "node/2468205724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2471644899",
+        "addr:city": "Boyle",
+        "addr:street": "Bridge Street",
+        "name": "Dalys Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3032846,
+          53.9717697
+        ]
+      },
+      "id": "node/2471644899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2476253706",
+        "addr:housenumber": "13",
+        "addr:postcode": "D13 X4W0",
+        "addr:street": "Main Street",
+        "drive_through": "no",
+        "name": "The Winehouse",
+        "opening_hours": "Mo-We 11:30-19:30, Th-Fr 11:00-20:00, Sa 10:30-20:00, Su 12:30-16:30, PH 12:30-16:30",
+        "phone": "+353-1-8324356",
+        "shop": "alcohol",
+        "website": "https://www.thewinehouse.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0651719,
+          53.3850886
+        ]
+      },
+      "id": "node/2476253706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2499347440",
+        "name": "Molloys, Clondalkin",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3928744,
+          53.3222427
+        ]
+      },
+      "id": "node/2499347440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2528615110",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3715725,
+          53.3846064
+        ]
+      },
+      "id": "node/2528615110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2531730343",
+        "name": "Langans Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0002149,
+          53.8490328
+        ]
+      },
+      "id": "node/2531730343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2576258185",
+        "addr:city": "Dublin",
+        "addr:housenumber": "4",
+        "addr:street": "Chatham Street",
+        "contact:instagram": "https://www.instagram.com/thecorkscrewwinemerchants/",
+        "contact:twitter": "https://twitter.com/corkscrewnation",
+        "email": "sales@thecorkscrew.ie",
+        "name": "The Corkscrew",
+        "opening_hours": "Mo-We 10:30-19:00; Th 10:30-20:00; Fr-Sa 10:30-19:00; Su 12:30-18:00",
+        "phone": "1850-211-879; +353-1-674-5731",
+        "shop": "alcohol",
+        "website": "https://www.thecorkscrew.ie",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2614391,
+          53.3407297
+        ]
+      },
+      "id": "node/2576258185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2611271781",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.376891,
+          53.3501626
+        ]
+      },
+      "id": "node/2611271781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2612014312",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3567766,
+          53.3416277
+        ]
+      },
+      "id": "node/2612014312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2632220317",
+        "addr:city": "Bishopstown",
+        "addr:street": "Curraheen Road",
+        "drive_through": "no",
+        "name": "Off licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5213751,
+          51.8790651
+        ]
+      },
+      "id": "node/2632220317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2694314975",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5986714,
+          53.372765
+        ]
+      },
+      "id": "node/2694314975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2694707784",
+        "addr:housenumber": "2 Vevay Arcade",
+        "addr:street": "Vevay Road",
+        "name": "O'Briens Wine",
+        "shop": "alcohol",
+        "toilets:wheelchair": "no",
+        "website": "https://www.obrienswine.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1057878,
+          53.1926008
+        ]
+      },
+      "id": "node/2694707784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2717809549",
+        "name": "O'Keeffes",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6680174,
+          53.3994657
+        ]
+      },
+      "id": "node/2717809549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2753498830",
+        "addr:city": "Midleton",
+        "addr:country": "IE",
+        "addr:province": "Cork",
+        "drive_through": "no",
+        "name": "Lakeview Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.16776,
+          51.904994
+        ]
+      },
+      "id": "node/2753498830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2779604502",
+        "name": "Weighbridge",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1889874,
+          53.1621598
+        ]
+      },
+      "id": "node/2779604502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2795381144",
+        "name": "Carpenter Off-License",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3889846,
+          53.3720251
+        ]
+      },
+      "id": "node/2795381144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3001696161",
+        "addr:city": "Dublin 11",
+        "addr:street": "Ballygall Road West",
+        "name": "Molloy's Liquor Store",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su,St Patricks Day 12:30-10:00",
+        "phone": "+353 1 8640251",
+        "shop": "alcohol",
+        "website": "https://molloys.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2978858,
+          53.3899143
+        ]
+      },
+      "id": "node/3001696161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3005899378",
+        "addr:city": "Dublin 6",
+        "addr:street": "Harold's Cross Road",
+        "name": "D Six",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2785304,
+          53.3236828
+        ]
+      },
+      "id": "node/3005899378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3019007144",
+        "name": "Bottle-O",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.808327,
+          53.7632382
+        ]
+      },
+      "id": "node/3019007144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3028582916",
+        "name": "Orchard House",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2357054,
+          52.6679341
+        ]
+      },
+      "id": "node/3028582916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3039675542",
+        "addr:city": "Dublin",
+        "addr:housenumber": "105",
+        "addr:street": "Rathgar Road",
+        "contact:phone": "+353 1 490 9366",
+        "contact:website": "https://www.obrienswine.ie/store/rathgar-store",
+        "name": "O'Briens",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su 12:30-22:00; PH 10:30-22:00",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2742726,
+          53.3121836
+        ]
+      },
+      "id": "node/3039675542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3039675544",
+        "addr:city": "Dublin",
+        "addr:housenumber": "102",
+        "addr:street": "Rathgar Road",
+        "name": "The Vintry",
+        "phone": "+353 1 4905477",
+        "shop": "alcohol",
+        "website": "http://www.vintry.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2740917,
+          53.312375
+        ]
+      },
+      "id": "node/3039675544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3049423646",
+        "name": "O'Brien's",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9309413,
+          53.4213727
+        ]
+      },
+      "id": "node/3049423646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3051011354",
+        "addr:city": "Dungarvan",
+        "addr:street": "Grattan Square",
+        "name": "The Wine Buff",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6207095,
+          52.0899652
+        ]
+      },
+      "id": "node/3051011354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3054706966",
+        "addr:city": "Dublin",
+        "addr:street": "Phibsboro Shopping Centre",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "brand:wikipedia": "en:Tesco",
+        "name": "Tesco Off-license",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.273089,
+          53.3616394
+        ]
+      },
+      "id": "node/3054706966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3061990892",
+        "addr:city": "Dublin 11",
+        "addr:street": "Ballygall Road West",
+        "name": "Cheers Take Home",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2879028,
+          53.3907135
+        ]
+      },
+      "id": "node/3061990892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3066452998",
+        "addr:city": "Dublin",
+        "name": "Bracken's Off-Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26834,
+          53.3725756
+        ]
+      },
+      "id": "node/3066452998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3068201176",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.715421,
+          54.95704
+        ]
+      },
+      "id": "node/3068201176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3073294812",
+        "name": "Next Door",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.363124,
+          53.9895948
+        ]
+      },
+      "id": "node/3073294812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3077675596",
+        "addr:housenumber": "20",
+        "addr:street": "Errigal Road",
+        "name": "Acheson's Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.321599,
+          53.3260227
+        ]
+      },
+      "id": "node/3077675596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3089037844",
+        "addr:city": "Dublin 8",
+        "addr:housenumber": "41",
+        "addr:street": "James Street",
+        "name": "Next Door",
+        "phone": "+353 1 4549274",
+        "shop": "alcohol",
+        "website": "http://www.nextdoor.ie/jamess-street.327.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2893925,
+          53.3432506
+        ]
+      },
+      "id": "node/3089037844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3106272136",
+        "addr:city": "Dublin 6",
+        "addr:street": "Terenure Road North",
+        "name": "Cork's Off-licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2832654,
+          53.3107205
+        ]
+      },
+      "id": "node/3106272136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3124321668",
+        "addr:city": "Dublin 8",
+        "addr:street": "James Street",
+        "name": "The Tram",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2906642,
+          53.3434827
+        ]
+      },
+      "id": "node/3124321668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3136124162",
+        "addr:city": "Dublin",
+        "addr:street": "Charlestown Shopping Cente",
+        "name": "The Ice Box",
+        "shop": "alcohol",
+        "website": "http://www.theicebox.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3029584,
+          53.4031453
+        ]
+      },
+      "id": "node/3136124162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3137599783",
+        "addr:city": "Dublin 11",
+        "addr:street": "Poppintree Parade",
+        "name": "Quinn's Next Door Off-licence",
+        "operator": "Tom Quinn",
+        "phone": "+353 1 8060840",
+        "shop": "alcohol",
+        "website": "http://www.nextdoor.ie/ballymun.288.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2766633,
+          53.3999674
+        ]
+      },
+      "id": "node/3137599783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3231586290",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3934035,
+          53.405502
+        ]
+      },
+      "id": "node/3231586290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3241780715",
+        "addr:city": "Dublin",
+        "addr:housename": "Unit 5, Citywest Shopping Centre",
+        "name": "O'Briens Wine",
+        "operator": "O'Briens Wine",
+        "shop": "alcohol",
+        "website": "https://www.obrienswine.ie/store/citywest-store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4225736,
+          53.2829849
+        ]
+      },
+      "id": "node/3241780715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3381418420",
+        "name": "Dingle Pub Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2678298,
+          52.1414768
+        ]
+      },
+      "id": "node/3381418420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3382222066",
+        "name": "Cases Wine Warehouse",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0252915,
+          53.2889413
+        ]
+      },
+      "id": "node/3382222066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3393615546",
+        "addr:street": "Swords Road",
+        "name": "Carry Out",
+        "old_name": "Cheers",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2460292,
+          53.3885797
+        ]
+      },
+      "id": "node/3393615546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452090776",
+        "name": "Beer Necessities",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2964359,
+          52.6763016
+        ]
+      },
+      "id": "node/3452090776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3483786899",
+        "addr:city": "Dublin 3",
+        "addr:street": "Malahide Road",
+        "name": "Casino Off-licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2213646,
+          53.373468
+        ]
+      },
+      "id": "node/3483786899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3557237485",
+        "name": "Mulchays Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6834973,
+          52.3529044
+        ]
+      },
+      "id": "node/3557237485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3579222572",
+        "addr:city": "Dublin",
+        "addr:housename": "SuperValu",
+        "addr:street": "Talbot Street",
+        "name": "The Cellar",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2529101,
+          53.3511632
+        ]
+      },
+      "id": "node/3579222572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3647707201",
+        "name": "Next Door",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2938664,
+          52.6761389
+        ]
+      },
+      "id": "node/3647707201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3667457812",
+        "name": "Fine Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5830022,
+          52.6479547
+        ]
+      },
+      "id": "node/3667457812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3739414065",
+        "name": "Molloy's Liquor Store",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3566687,
+          53.3422192
+        ]
+      },
+      "id": "node/3739414065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3780227764",
+        "addr:housenumber": "24",
+        "addr:street": "Fassaugh Avenue",
+        "name": "Buddies Off-Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2928889,
+          53.3669713
+        ]
+      },
+      "id": "node/3780227764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3873256589",
+        "addr:city": "Dublin 7",
+        "addr:housenumber": "87",
+        "addr:street": "Manor Street",
+        "name": "Drinkstore",
+        "note": "Probably the best off-license beer selection in Dublin. Large selection of craft beers. All trapist beers (except Westvleteren XII has been seen there on rare occasions!)",
+        "shop": "alcohol",
+        "website": "https://www.drinkstore.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2833031,
+          53.3515135
+        ]
+      },
+      "id": "node/3873256589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3903609265",
+        "name": "Ferguson's Fine Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0210293,
+          53.4890757
+        ]
+      },
+      "id": "node/3903609265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3908271594",
+        "addr:housename": "Ballybrack Shopping Centre",
+        "addr:street": "Churchview Road",
+        "name": "O'Briens Wine",
+        "shop": "alcohol",
+        "website": "https://www.obrienswine.ie/store/ballybrack-store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1341084,
+          53.2561511
+        ]
+      },
+      "id": "node/3908271594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3962367942",
+        "name": "O'Brien's",
+        "shop": "alcohol",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1760245,
+          53.2880271
+        ]
+      },
+      "id": "node/3962367942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4020448609",
+        "name": "Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2797815,
+          52.1360659
+        ]
+      },
+      "id": "node/4020448609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030176889",
+        "name": "Coaster's",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6181937,
+          52.6636196
+        ]
+      },
+      "id": "node/4030176889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4045018889",
+        "name": "Fine Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5820316,
+          52.6653917
+        ]
+      },
+      "id": "node/4045018889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4045648836",
+        "drive_through": "no",
+        "name": "O'Donovans Off-licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1751734,
+          51.9176716
+        ]
+      },
+      "id": "node/4045648836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237436692",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2876652,
+          52.6793225
+        ]
+      },
+      "id": "node/4237436692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4240018221",
+        "name": "McGoverns Carryout",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4465856,
+          51.9168397
+        ]
+      },
+      "id": "node/4240018221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275760545",
+        "name": "Centra Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1227206,
+          53.1893897
+        ]
+      },
+      "id": "node/4275760545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4317458976",
+        "addr:city": "Killarney",
+        "addr:street": "Muckross Road",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5073711,
+          52.0557048
+        ]
+      },
+      "id": "node/4317458976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4320278115",
+        "addr:street": "Rock Road",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5154501,
+          52.0681903
+        ]
+      },
+      "id": "node/4320278115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4320878661",
+        "addr:city": "Killarney",
+        "addr:housenumber": "56",
+        "addr:street": "High Street",
+        "name": "J C O'Shea",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5101929,
+          52.060425
+        ]
+      },
+      "id": "node/4320878661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359042265",
+        "addr:street": "Monkstown Crescent",
+        "name": "Searsons Wine Merchants",
+        "opening_hours": "Mo-We 10:30-19:00; Th-Fr 10:30-20:00; Sa 10:30-19:00; Su 12:30-19:00",
+        "phone": "+353-1-280-0405",
+        "shop": "alcohol",
+        "website": "https://www.searsons.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1524524,
+          53.2940181
+        ]
+      },
+      "id": "node/4359042265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449834239",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4285388,
+          51.9149037
+        ]
+      },
+      "id": "node/4449834239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4686870962",
+        "name": "The Lord Mayors off licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2229721,
+          53.4548426
+        ]
+      },
+      "id": "node/4686870962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4763915162",
+        "name": "Matson's Wine Store",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4495923,
+          51.8676158
+        ]
+      },
+      "id": "node/4763915162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4913827373",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3293783,
+          53.32414
+        ]
+      },
+      "id": "node/4913827373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4968778866",
+        "drive_through": "no",
+        "name": "Brad Ógs Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7217546,
+          52.391044
+        ]
+      },
+      "id": "node/4968778866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026954322",
+        "name": "The Next Door",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4838343,
+          52.638113
+        ]
+      },
+      "id": "node/5026954322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179207083",
+        "addr:housenumber": "34",
+        "addr:postcode": "D14 NH72",
+        "addr:street": "Gledswood Drive",
+        "drive_through": "no",
+        "email": "higginsofflicence@eircom.net",
+        "name": "Higgins",
+        "phone": "+353-1-2697276",
+        "shop": "alcohol",
+        "website": "https://www.higginsofflicence.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2366512,
+          53.3052205
+        ]
+      },
+      "id": "node/5179207083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5181436909",
+        "name": "MacNamee Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4873584,
+          53.9715341
+        ]
+      },
+      "id": "node/5181436909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5260809109",
+        "addr:city": "Stillorgan",
+        "addr:housenumber": "2",
+        "addr:street": "Kilmacud Road Lower",
+        "email": "stillorgan@obrienswine.ie",
+        "name": "O'Briens",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su 12:30-22:00",
+        "phone": "+353-1-283-6287",
+        "shop": "alcohol",
+        "start_date": "2017-11-29",
+        "website": "https://www.obrienswine.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2048319,
+          53.2884676
+        ]
+      },
+      "id": "node/5260809109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5263649013",
+        "name": "Next Door",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0449164,
+          52.9807392
+        ]
+      },
+      "id": "node/5263649013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5281904978",
+        "addr:street": "Church Road",
+        "name": "O'Briens",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0634447,
+          53.1450686
+        ]
+      },
+      "id": "node/5281904978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5282176350",
+        "name": "O'Briens",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1542821,
+          53.4505292
+        ]
+      },
+      "id": "node/5282176350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5351684362",
+        "name": "Happy's News and Booze",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2773541,
+          53.3340684
+        ]
+      },
+      "id": "node/5351684362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5405915952",
+        "addr:street": "Dorset Street Lower",
+        "drive_through": "no",
+        "name": "W.J. Kavanagh's Off-Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.263369,
+          53.3576226
+        ]
+      },
+      "id": "node/5405915952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5543823597",
+        "addr:street": "Seafield Road West",
+        "name": "Kelly's Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1958198,
+          53.3642829
+        ]
+      },
+      "id": "node/5543823597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5574268070",
+        "addr:housename": "Ardkeen Shopping Centre",
+        "addr:housenumber": "Unit 42",
+        "addr:street": "Dunmore Road",
+        "email": "ardkeen@obrienswine.ie",
+        "name": "O’Briens Wine Beer & Spirits",
+        "opening_hours": "Mo-Sa 10:30-22:00, Su 12:30-22:00",
+        "phone": "+353-51-560457",
+        "shop": "alcohol",
+        "website": "https://www.obrienswine.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0833685,
+          52.247157
+        ]
+      },
+      "id": "node/5574268070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5585403333",
+        "addr:street": "Talbot Street",
+        "name": "Maher's",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2524594,
+          53.3511956
+        ]
+      },
+      "id": "node/5585403333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5593288268",
+        "name": "Corcoran's",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9305633,
+          52.3989334
+        ]
+      },
+      "id": "node/5593288268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5619858835",
+        "addr:city": "Wexford",
+        "addr:street": "South Main Street",
+        "contact:facebook": "https://www.facebook.com/carryoutwexford/",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4595944,
+          52.3360384
+        ]
+      },
+      "id": "node/5619858835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5746270990",
+        "addr:street": "Marlfield Mall",
+        "name": "Kiltipper Off-licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3720334,
+          53.2717202
+        ]
+      },
+      "id": "node/5746270990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5756832421",
+        "addr:city": "Douglas",
+        "addr:street": "Douglas Court",
+        "name": "O’Briens Wine Off License",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4321553,
+          51.8783119
+        ]
+      },
+      "id": "node/5756832421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5862048422",
+        "name": "Chasers",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3536184,
+          53.3424723
+        ]
+      },
+      "id": "node/5862048422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5868715782",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6180171,
+          52.662534
+        ]
+      },
+      "id": "node/5868715782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5988892657",
+        "addr:city": "Kinsale",
+        "addr:street": "Pearse Street",
+        "drive_through": "no",
+        "name": "1601 Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5232735,
+          51.7062834
+        ]
+      },
+      "id": "node/5988892657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5994489020",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.284413,
+          52.5133064
+        ]
+      },
+      "id": "node/5994489020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6013636368",
+        "addr:housename": "Pavilion 2",
+        "addr:street": "Marine Road",
+        "name": "O'Brien's",
+        "opening_hours": "Mo-Sa 10:30-22:00; Su 12:30-22:00",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1348046,
+          53.2932651
+        ]
+      },
+      "id": "node/6013636368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6033290906",
+        "addr:street": "Collins Avenue",
+        "name": "Kitty Kiernans",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2231891,
+          53.3766941
+        ]
+      },
+      "id": "node/6033290906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6052005940",
+        "addr:housename": "The Old Mill",
+        "addr:street": "Old Bawn Road",
+        "name": "Carryout",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3538642,
+          53.2751391
+        ]
+      },
+      "id": "node/6052005940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6064664277",
+        "addr:housenumber": "514",
+        "addr:street": "Rialto Street",
+        "name": "Fine Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.296712,
+          53.3359057
+        ]
+      },
+      "id": "node/6064664277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6077712298",
+        "addr:housenumber": "9",
+        "addr:street": "Main Street",
+        "drive_through": "no",
+        "email": "clongriffin@carryout.ie",
+        "name": "Carry Out",
+        "opening_hours": "Su-Th 12:30-22:00, Fr-Sa12:00-22:00",
+        "phone": "+353-1-8285088",
+        "shop": "alcohol",
+        "website": "http://www.carryout.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1519319,
+          53.402354
+        ]
+      },
+      "id": "node/6077712298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6142549049",
+        "addr:street": "Manor Mall Shopping Centre",
+        "name": "Graingers Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2449798,
+          53.4602713
+        ]
+      },
+      "id": "node/6142549049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6185640721",
+        "name": "Brian Ború On The Hill",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4372317,
+          52.8130013
+        ]
+      },
+      "id": "node/6185640721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6257695259",
+        "addr:housename": "Rivervalley Shopping Centre",
+        "addr:street": "Rathingle Road",
+        "drive_through": "yes",
+        "name": "Peacocks Off-licence",
+        "opening_hours": "12:30-11:30",
+        "operator": "Peacocks",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "alcohol",
+        "website": "https://www.peacocksbar.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2429434,
+          53.4527461
+        ]
+      },
+      "id": "node/6257695259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6313184155",
+        "addr:street": "Main Street",
+        "name": "Brady's Wine Store",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1243244,
+          53.2301174
+        ]
+      },
+      "id": "node/6313184155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6313499945",
+        "addr:street": "Main Street",
+        "name": "Next Door",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5340739,
+          53.1699791
+        ]
+      },
+      "id": "node/6313499945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6344025096",
+        "addr:housenumber": "40",
+        "addr:street": "Main Street",
+        "drive_through": "no",
+        "name": "Chill In",
+        "phone": "+353-1-8266000",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4396759,
+          53.395969
+        ]
+      },
+      "id": "node/6344025096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6376188440",
+        "addr:city": "Bandon",
+        "addr:street": "Pearse Street",
+        "name": "O'Donovan's Off-License",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7353872,
+          51.7453071
+        ]
+      },
+      "id": "node/6376188440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6460002997",
+        "name": "Fine Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6255035,
+          52.6592386
+        ]
+      },
+      "id": "node/6460002997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6480940433",
+        "addr:city": "Tubbercurry",
+        "addr:street": "Teeling Street",
+        "name": "The Cellar Off License",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7310757,
+          54.0533783
+        ]
+      },
+      "id": "node/6480940433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6555373472",
+        "amenity": "atm",
+        "cash_in": "no",
+        "currency:EUR": "yes",
+        "drive_through": "no",
+        "network": "AIB",
+        "operator": "AIB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3997648,
+          53.3825102
+        ]
+      },
+      "id": "node/6555373472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6555373473",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3998346,
+          53.3825378
+        ]
+      },
+      "id": "node/6555373473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6637011082",
+        "addr:city": "Bandon",
+        "name": "Half Door Offlicence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7388368,
+          51.7428452
+        ]
+      },
+      "id": "node/6637011082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6708199885",
+        "name": "Fine Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6312798,
+          52.6705496
+        ]
+      },
+      "id": "node/6708199885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6783719497",
+        "level": "0",
+        "name": "Fine Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6159163,
+          52.6713719
+        ]
+      },
+      "id": "node/6783719497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6831927472",
+        "addr:street": "Vicar Street",
+        "name": "Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8514666,
+          53.5142486
+        ]
+      },
+      "id": "node/6831927472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6937546349",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.258882,
+          53.3626685
+        ]
+      },
+      "id": "node/6937546349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6962291464",
+        "name": "Next Door Off License",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1523049,
+          52.7974627
+        ]
+      },
+      "id": "node/6962291464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7188210307",
+        "name": "Off Licence",
+        "opening_hours:covid19": "open",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4729778,
+          51.9165218
+        ]
+      },
+      "id": "node/7188210307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7221275991",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3822071,
+          53.4199399
+        ]
+      },
+      "id": "node/7221275991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7589964706",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5702068,
+          52.6675175
+        ]
+      },
+      "id": "node/7589964706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7714160582",
+        "name": "Carry out!",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9817956,
+          52.8478209
+        ]
+      },
+      "id": "node/7714160582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7792189739",
+        "name": "Eldon's",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6969382,
+          52.3549357
+        ]
+      },
+      "id": "node/7792189739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7799474648",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6983139,
+          52.3605659
+        ]
+      },
+      "id": "node/7799474648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7813507927",
+        "name": "Brown's Off licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.293709,
+          53.0355416
+        ]
+      },
+      "id": "node/7813507927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7813820118",
+        "name": "Egans Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2969062,
+          53.033119
+        ]
+      },
+      "id": "node/7813820118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7839946775",
+        "name": "Carry out Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3948003,
+          53.3261344
+        ]
+      },
+      "id": "node/7839946775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7857605609",
+        "name": "Chrissie's Off-License",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7081286,
+          52.354912
+        ]
+      },
+      "id": "node/7857605609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7928985033",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5169013,
+          52.0687157
+        ]
+      },
+      "id": "node/7928985033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8007193645",
+        "name": "World Wide Wines",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0849732,
+          52.2477496
+        ]
+      },
+      "id": "node/8007193645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8042536188",
+        "name": "Carry Out",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6910731,
+          52.2692648
+        ]
+      },
+      "id": "node/8042536188"
+    }
+  ]
+}

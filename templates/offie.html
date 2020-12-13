@@ -1,0 +1,336 @@
+{% extends "base.html" %}
+{% load leaflet_tags %}
+{% load static %}
+{% load i18n %}
+{% load crispy_forms_tags %}
+{% load crispy_forms_filters %}
+{% block head_title %}{% trans "Map Page" %}{% endblock %}
+{% block extra_header %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="/static/admin/js/leaflet.geometryutil.js"></script>
+    <script src="/static/admin/data/offieIcon.png"></script>
+    <script src="/static/admin/data/conIcon.png"></script>
+    <script src="/static/admin/data/supermarketIcon.png"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&libraries=geometry"> </script>
+    <script src="/static/admin/data/con_nodes.js"></script>
+    <script src="/static/admin/data/supermarket_nodes.js"></script>
+    <script src="/static/admin/data/offie_nodes.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+             <!-- Make sure you put this AFTER Leaflet's CSS -->
+     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+        <style>
+             #mapid {
+                 height: 60vh;
+                 outline: #2b542c thick;
+             }
+             #mapout {
+                 position: relative;
+
+                 background-color: #d6e9c6;
+                 height: 100vh;
+                 outline: #2b542c thick;
+             }
+             #selector {
+              height: 100%;
+                 bottom: 0;
+                 width: 100vw;
+                 border: 2px solid black;
+
+                 background-color: #d7cec7;
+                 position: relative;
+             }
+             #placelist{
+                align-items: center;
+                 width : 70vw;
+                 overflow: auto;
+
+             }
+             #tableh {
+
+                 color: #76323f;
+                 -webkit-text-stroke-width: .5px;
+                 -webkit-text-stroke-color: #f8f8f8;
+                 text-shadow: 3px 3px 0 #000,
+                 -1px -1px 0 #000,
+                 1px -1px 0 #000,
+                 -1px 1px 0 #000,
+                 1px 1px 0 #000;
+             }
+             #table{
+                 border-width: 4px;
+                 border-color: black;
+
+             }
+        </style>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+{% endblock %}
+{% block body_content %}
+<body>
+    <div id="mapid">
+
+    </div>
+
+</div>
+<div id="selector">
+<div id="placelist" class="container">
+  <h2>Nearest Shops</h2>
+  <p>Here are the five closest shop/off-licenses to your location</p>
+  <table class="table table-hover">
+    <thead id="tableh" class="bg-dark text-light">
+      <tr>
+           <th>Num</th>
+        <th>Shop</th>
+        <th>Distance</th>
+          <th>Type</th>
+      </tr>
+    </thead>
+    <tbody id="table">
+
+
+    </tbody>
+  </table>
+ </div>
+</div>
+</div>
+    <script>
+
+        const nearlist = [];
+        const popup = L.popup();
+        let myIcon = L.icon({
+            iconUrl: '/static/admin/data/offieIcon.png',
+            iconSize: [50, 50],
+            iconAnchor: [25, 50],
+            popupAnchor: [-3, -76],
+            shadowSize: [68, 95],
+            shadowAnchor: [22, 94]})
+        const markerIcons = L.Icon.extend({
+            options: {
+                iconSize: [35, 35],
+                iconAnchor: [25, 50],
+                popupAnchor: [-3, -76],
+                shadowSize: [68, 95],
+                shadowAnchor: [22, 94]
+            }
+        });
+
+        const offieIcon = new markerIcons({iconUrl: '/static/admin/data/offieIcon.png'}),
+            conIcon = new markerIcons({iconUrl: '/static/admin/data/conIcon.png'});
+
+
+
+        const HOST = location.protocol + "//" + location.host;
+        let locationMarker = myIcon;
+        let locationMarkers;
+        let circle;
+        console.log({{shops}})
+        let circles;
+        let feature;
+        const mymap = L.map('mapid').setView([53.505, -6.18], 13);
+        const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+        const tiles = L.tileLayer( tileUrl, );
+        tiles.addTo(mymap);
+        updateLocation(mymap);
+        console.log('dfevgthsbtgbergqetgqergqregarfgetgbetbdfbhwrthwnrtbrthbrt');
+        var d = 0;
+        testpos = L.latLng(-53, 6)
+        mymap.on('click', onMapClick);
+
+        function parseShops(data, pos, icon) {
+            console.log('In parse shops')
+            var i = 0;
+            const myLatLon = L.latLng(pos.coords.latitude, pos.coords.longitude);
+            var dis;
+            var nearby;
+
+            while (i !== data.elements.length) {
+                try {
+
+                    const lat = data.elements[i].lat
+                    const lon = data.elements[i].lon
+                    const name = data.elements[i].tags.name
+                    const type = data.elements[i].tags.shop
+
+                    const shopLatLon = L.latLng(lat, lon);
+
+                    dis = mymap.latLngToLayerPoint(shopLatLon).distanceTo(mymap.latLngToLayerPoint(myLatLon));
+
+                    if (dis < 120) // Show if nearby
+                    {
+                        dis = (dis)* 11.342
+                        dis = dis.toFixed(2)
+                        var feed = {name, dis, type}
+                        nearlist.push(feed);
+                        locationMarkers = L.marker(shopLatLon, {icon: icon, weight: 2}).bindPopup(('Name: '+ name + '<br/> Distance: ' + dis + 'm')).addTo(mymap);
+                        L.circleMarker(shopLatLon, {
+                                "radius": 10,
+                                "fillColor": "#ff7800",
+                                "color": "#ff7800",
+                                "weight": 1,
+                                "opacity": 5
+                            }
+                        ).addTo(mymap);
+                        document.getElementById('0').innerHTML = data.elements[0].tags.name
+                        console.log(shopLatLon, myLatLon)
+                        console.log(dis)
+                    }
+
+                } catch (e) {
+
+                }
+                i = i + 1;
+            }
+        }
+        function displayNearby(name, dis, type) {
+            dist = Math.ceil(dis*10) + ' Meters'
+            var shopstr
+            if (type === 'convenience')
+                shopstr = 'Newsagent'
+            else if (type === 'alcohol')
+                shopstr = 'Off-License'
+            else
+                shopstr = 'Super Market'
+
+            if(typeof name === 'undefined') {
+                name = 'Not registered';
+            }
+
+
+
+
+document.getElementById("table").innerHTML = str;
+            //console.log(name,dist, shopstr)
+        }
+// Meant to update users location in Database = Not implemented
+        function update_db(pos) {
+            const csrftoken = Cookies.get('csrftoken')
+            var locString = pos.coords.longitude + ", " + pos.coords.latitude;
+            $.ajax({
+                type: "POST",
+                headers: {
+                    'X-CSRFToken': getCookie('csrftoken')
+                },
+                url: HOST + "/updatedb",
+                data: {
+                    point: locString
+                }
+            }).done(function (data, status, xhr) {
+                console.log(data["message"])
+                var originalMsg = $(".toast-body").html();
+                $(".toast-body").html(originalMsg + "<br/>Updated database<br/>"
++ data["message"]);
+            }).fail(function (xhr, status, error) {
+                console.log(error);
+                var originalMsg = $(".toast-body").html();
+                $(".toast-body").html(originalMsg + "<br/>" + error);
+            }).always(function () {
+                console.log("find_loc_ed finished");
+                $(".toast").toast('show');
+            });
+
+        }
+
+        function updateLocation(mymap) {
+            console.log("In getCurrentlocation.");
+
+            navigator.geolocation.getCurrentPosition(
+                function (pos) {
+                    console.log("Got location");
+                    setMapToCurrentLocation(mymap, pos);
+                    findShops(pos);
+                    update_db(pos);
+                },
+                function (err) {
+                    console.log("Location error: " + err.message);
+                },
+                {
+                    enableHighAccuracy: true,
+                    // maximumAge: 60000,
+                    timeout: 30000
+                }
+            );
+        }
+        function setMapToCurrentLocation(mymap, pos) {
+            console.log("In setMapToCurrentLocation.");
+
+            const myLatLon = L.latLng(pos.coords.latitude, pos.coords.longitude);
+            mymap.flyTo(myLatLon, 16);
+            if (locationMarker) {
+                mymap.removeLayer(locationMarker);
+            }
+            locationMarker = L.marker(myLatLon).addTo(mymap);
+            if (circle) {
+                mymap.removeLayer(circle);
+            }
+            circle = L.circle(myLatLon, {
+                color: 'blue',
+                fillColor: 'blue',
+                fillOpacity: 0.3,
+                radius: pos.coords.accuracy
+            }).addTo(mymap);
+        }
+
+        function onMapClick(e) {
+            popup
+                .setLatLng(e.latlng)
+                .setContent("You clicked the map at " + e.latlng.toString())
+                .openOn(mymap);
+        }
+
+
+        function findShops(pos){
+
+            let offieIcon = myIcon;
+            parseShops(conData, pos, conIcon)
+            parseShops(offieData, pos, offieIcon)
+            parseShops(supermarketData,pos, conIcon)
+            console.log(nearlist.length);
+            nearlist.sort(function (a, b) {return a.dis - b.dis}); // Want to show nearest 1st
+
+            var neartable;
+            for (let i = 0; i < nearlist.length; i++) {
+                // process tags
+
+
+                if (nearlist[i].type === 'convenience'){
+                    nearlist[i].type = 'Newsagent'
+                }
+                else if (nearlist[i].type === 'alcohol') {
+                    nearlist[i].type = 'Off-License'
+                }
+                else {
+                    nearlist[i].type = 'Super Market'
+                }
+                if (typeof nearlist[i].name === 'undefined') {
+                    nearlist[i].name = 'Not registered';
+                }
+                console.log('fwfrf')
+                neartable +=
+                    "<tr>" +
+                    "<td>" + (i + 1) + "</td>" +
+                    "<td>" + nearlist[i].name + "</td>" +
+                    "<td>" + nearlist[i].dis + " m</td>" +
+                    "<td>" + nearlist[i].type + "</td>" +
+                    "</tr>"
+
+            }
+            $("#table").html(neartable);
+        }
+
+
+
+
+
+
+
+    </script>
+
+
+</body>
+{% endblock %}
+</html>

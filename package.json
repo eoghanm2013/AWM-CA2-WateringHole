@@ -1,0 +1,7 @@
+{
+  "name": "realDjango",
+  "version": "1.0.0",
+  "dependencies": {
+    "workbox-routing": "^5.1.4"
+  }
+}
